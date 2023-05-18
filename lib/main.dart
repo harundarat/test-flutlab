@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       // A widget which will be started on application startup
-      home: MyHomePage(title: 'Aplikasi Rental Mobil'),
+      home: MyHomePage(title: 'Ini saya ubah lagi'),
     );
   }
 }
